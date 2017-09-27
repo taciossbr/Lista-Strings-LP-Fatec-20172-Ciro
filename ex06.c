@@ -1,7 +1,6 @@
 /*
 6. Escreva um programa que receba uma string de 0s e 1s, interprete essa string como um número binário e informe o valor desse número na base decimal.
 */
-#include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 int main(){
